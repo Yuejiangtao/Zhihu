@@ -37,3 +37,7 @@
  ![](https://github.com/Yuejiangtao/Zhihu/blob/master/QQ%E5%9B%BE%E7%89%8720190301125139.png)
  ##### 5、新闻详情页：
  * 新闻详情页实现了新闻头部图片、新闻详细内容和滑动新闻时标题栏隐藏。
+ 
+ ![](https://github.com/Yuejiangtao/Zhihu/blob/master/1551413576215.gif)
+ 
+ 
