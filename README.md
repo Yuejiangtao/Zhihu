@@ -28,11 +28,12 @@
  
  ![](https://github.com/Yuejiangtao/Zhihu/blob/master/1551413674334.gif)
  ##### 3、侧滑栏：
- * 上部分登录、我的收藏、离线下载，但这些都需要用户登录后使用；下部分为menu选项，点击首页，回到首页界面。*
+ * 上部分登录、我的收藏、离线下载，但这些都需要用户登录后使用；下部分为menu选项，点击首页，回到首页界面。
  
  ![](https://github.com/Yuejiangtao/Zhihu/blob/master/QQ%E5%9B%BE%E7%89%8720190301125201.png)
  ##### 4、登陆界面：
- * 我仅实现了这个界面的样式。*
+ * 我仅实现了这个界面的样式。
  
  ![](https://github.com/Yuejiangtao/Zhihu/blob/master/QQ%E5%9B%BE%E7%89%8720190301125139.png)
- ##### 5、
+ ##### 5、新闻详情页：
+ * 新闻详情页实现了新闻头部图片、新闻详细内容和滑动新闻时标题栏隐藏。
