@@ -34,4 +34,6 @@
  ![](https://github.com/Yuejiangtao/Zhihu/blob/master/QQ%E5%9B%BE%E7%89%8720190301125201.png)
  ##### 4、登陆界面：
  * 我仅实现了这个界面的样式。*
+ 
+ ![](https://github.com/Yuejiangtao/Zhihu/blob/master/QQ%E5%9B%BE%E7%89%8720190301125201.png)
  ##### 5、
