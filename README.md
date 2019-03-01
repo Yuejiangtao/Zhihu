@@ -24,7 +24,7 @@
  
  ![](https://github.com/Yuejiangtao/Zhihu/blob/master/1551413506446.gif)
  ##### 2、首页顶部栏：
- * 首页设置了侧滑栏，提醒图标点击和Menu，Menu里包含了夜间模式、设置选项。
+ * 首页设置了侧滑栏、提醒图标点击和Menu，Menu里包含了夜间模式、设置选项。
  
  ![](https://github.com/Yuejiangtao/Zhihu/blob/master/1551413674334.gif)
  ##### 3、侧滑栏：
@@ -39,5 +39,17 @@
  * 新闻详情页实现了新闻头部图片、新闻详细内容和滑动新闻时标题栏隐藏。
  
  ![](https://github.com/Yuejiangtao/Zhihu/blob/master/1551413576215.gif)
+ ### 三、
+ #### 实现功能所使用到的技术/知识点：
+ ##### 1、首页新闻条目部分：
+ * DrawerLayout布局、FrameLayout、网络请求、Gson解析、RecyclerView以及它的点击事件、递归。
+ ##### 2、首页顶部栏：
+ * Toolbar、Menu、Intent。
+ ##### 3、侧滑栏：
+ * Menu、CircleImageView、NavigationView。
+ ##### 4、登陆界面：
+ * Toolbar、ImageView、Button、TextView。
+ ##### 5、新闻详情页：
+ * Intent传输数据、网络请求、Gson解析、CoordinatorLayout布局、AppBarLayout以及CollapsingToolbarLayout、NestedScrollView、WebView控件(对bady，js，css的拼接)。
  
- 
+ ### 谢谢查看！！！
