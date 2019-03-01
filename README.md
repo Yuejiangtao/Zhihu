@@ -27,7 +27,7 @@
  ##### 2、首页顶部栏：
  * 首页设置了侧滑栏，提醒图标点击和Menu，Menu里包含了夜间模式、设置选项。*
  
- ![](https://github.com/Yuejiangtao/Zhihu/blob/master/1551413506446.gif)
+ ![](https://github.com/Yuejiangtao/Zhihu/blob/master/1551413674334.gif)
  ##### 3、侧滑栏：
  * 上部分登录、我的收藏、离线下载，但这些都需要用户登录后使用；下部分为menu选项，点击首页，回到首页界面。*
  ##### 4、登陆界面：
